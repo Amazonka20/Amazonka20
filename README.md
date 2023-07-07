@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Amazonka20
 - 👀 I’m interested in frontend developing.
-- 🌱 I’m currently learning ReactJS, JavaScript.
 
 <!---
 Amazonka20/Amazonka20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
